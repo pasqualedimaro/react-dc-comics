@@ -22,3 +22,14 @@ ul {
   display: flex;
   gap: 10px;
 }
+
+/* main */
+
+main {
+  background-color: black;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
