@@ -50,7 +50,6 @@ function Footer() {
                 <nav>
                     <ul>
                         <h3>SITES</h3>
-                        <li>DC</li>
                          <li><a href="#">DC</a></li>
                         <li><a href="#">MAD Magazine</a></li>
                         <li><a href="#">DC Kids</a></li>
