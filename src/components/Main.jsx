@@ -1,10 +1,11 @@
 import comics from "../data/comics"
+import Product from "./productCard"
 
 function Main() {
     console.log(comics);
     return (
         <main>
-            <div>contenuto</div>
+            <Product product={comics} />
         </main>
     )
 }
