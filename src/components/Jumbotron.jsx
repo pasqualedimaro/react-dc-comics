@@ -4,9 +4,7 @@ import Jumbotron from "/img/jumbotron.jpg"
 function jumbotron() {
     return (
 
-        <>
-            <img src={Jumbotron} alt="Ciao" className="img-jumbo"></img>
-        </>
+        <div className="jumbotron"></div>
     )
 }
 
