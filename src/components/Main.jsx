@@ -1,4 +1,4 @@
-import comics from "../comics"
+import comics from "../data/comics"
 
 function Main() {
     console.log(comics);
